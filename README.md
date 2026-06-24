@@ -1,5 +1,5 @@
 # portfolio
 
-## https://bhalekarabhijit.github.io - Preview
+## https://abhijit.github.io - Preview
 
 ![](portfolio.jpeg)
